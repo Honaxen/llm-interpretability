@@ -1,0 +1,327 @@
+{
+  "text": "The capital of France is",
+  "layer_predictions": [
+    {
+      "layer": 0,
+      "layer_label": "embedding_output",
+      "top_tokens": [
+        "nt",
+        "chem",
+        "hed"
+      ],
+      "top_probs": [
+        0.9985,
+        0.0003,
+        0.0001
+      ]
+    },
+    {
+      "layer": 1,
+      "layer_label": "transformer_block_1",
+      "top_tokens": [
+        "nt",
+        "hed",
+        "chem"
+      ],
+      "top_probs": [
+        0.7726,
+        0.0037,
+        0.0036
+      ]
+    },
+    {
+      "layer": 2,
+      "layer_label": "transformer_block_2",
+      "top_tokens": [
+        "nt",
+        "aci",
+        "chem"
+      ],
+      "top_probs": [
+        0.7223,
+        0.0064,
+        0.004
+      ]
+    },
+    {
+      "layer": 3,
+      "layer_label": "transformer_block_3",
+      "top_tokens": [
+        "nt",
+        "omorph",
+        "omorphic"
+      ],
+      "top_probs": [
+        0.844,
+        0.0039,
+        0.0037
+      ]
+    },
+    {
+      "layer": 4,
+      "layer_label": "transformer_block_4",
+      "top_tokens": [
+        "nt",
+        "omorph",
+        "abel"
+      ],
+      "top_probs": [
+        0.1357,
+        0.0428,
+        0.0255
+      ]
+    },
+    {
+      "layer": 5,
+      "layer_label": "transformer_block_5",
+      "top_tokens": [
+        "ilon",
+        "uz",
+        "nt"
+      ],
+      "top_probs": [
+        0.019,
+        0.0116,
+        0.0114
+      ]
+    },
+    {
+      "layer": 6,
+      "layer_label": "transformer_block_6",
+      "top_tokens": [
+        "lets",
+        "nt",
+        "mina"
+      ],
+      "top_probs": [
+        0.0474,
+        0.0453,
+        0.014
+      ]
+    },
+    {
+      "layer": 7,
+      "layer_label": "transformer_block_7",
+      "top_tokens": [
+        "lets",
+        "uz",
+        "nt"
+      ],
+      "top_probs": [
+        0.0288,
+        0.0186,
+        0.0123
+      ]
+    },
+    {
+      "layer": 8,
+      "layer_label": "transformer_block_8",
+      "top_tokens": [
+        "idor",
+        "\u0179",
+        "lets"
+      ],
+      "top_probs": [
+        0.0862,
+        0.0243,
+        0.0162
+      ]
+    },
+    {
+      "layer": 9,
+      "layer_label": "transformer_block_9",
+      "top_tokens": [
+        "omorph",
+        "ams",
+        "acks"
+      ],
+      "top_probs": [
+        0.0211,
+        0.0156,
+        0.0088
+      ]
+    },
+    {
+      "layer": 10,
+      "layer_label": "transformer_block_10",
+      "top_tokens": [
+        "ams",
+        "nt",
+        "hed"
+      ],
+      "top_probs": [
+        0.0221,
+        0.0172,
+        0.0157
+      ]
+    },
+    {
+      "layer": 11,
+      "layer_label": "transformer_block_11",
+      "top_tokens": [
+        "ams",
+        "hed",
+        "nt"
+      ],
+      "top_probs": [
+        0.0335,
+        0.0184,
+        0.0168
+      ]
+    },
+    {
+      "layer": 12,
+      "layer_label": "transformer_block_12",
+      "top_tokens": [
+        "nt",
+        "agen",
+        "hed"
+      ],
+      "top_probs": [
+        0.0221,
+        0.0173,
+        0.009
+      ]
+    },
+    {
+      "layer": 13,
+      "layer_label": "transformer_block_13",
+      "top_tokens": [
+        "nt",
+        "verte",
+        "ander"
+      ],
+      "top_probs": [
+        0.0373,
+        0.0262,
+        0.0176
+      ]
+    },
+    {
+      "layer": 14,
+      "layer_label": "transformer_block_14",
+      "top_tokens": [
+        "nt",
+        "?(",
+        "hed"
+      ],
+      "top_probs": [
+        0.0341,
+        0.0278,
+        0.0163
+      ]
+    },
+    {
+      "layer": 15,
+      "layer_label": "transformer_block_15",
+      "top_tokens": [
+        "nt",
+        "also",
+        "city"
+      ],
+      "top_probs": [
+        0.0675,
+        0.026,
+        0.0224
+      ]
+    },
+    {
+      "layer": 16,
+      "layer_label": "transformer_block_16",
+      "top_tokens": [
+        "also",
+        "____",
+        "nt"
+      ],
+      "top_probs": [
+        0.0569,
+        0.0448,
+        0.0375
+      ]
+    },
+    {
+      "layer": 17,
+      "layer_label": "transformer_block_17",
+      "top_tokens": [
+        "?\"",
+        "also",
+        "?"
+      ],
+      "top_probs": [
+        0.0814,
+        0.0573,
+        0.0462
+      ]
+    },
+    {
+      "layer": 18,
+      "layer_label": "transformer_block_18",
+      "top_tokens": [
+        "city",
+        "?",
+        "France"
+      ],
+      "top_probs": [
+        0.1339,
+        0.0978,
+        0.0777
+      ]
+    },
+    {
+      "layer": 19,
+      "layer_label": "transformer_block_19",
+      "top_tokens": [
+        "Paris",
+        "____",
+        "located"
+      ],
+      "top_probs": [
+        0.3473,
+        0.1789,
+        0.1045
+      ]
+    },
+    {
+      "layer": 20,
+      "layer_label": "transformer_block_20",
+      "top_tokens": [
+        "Paris",
+        "located",
+        "____"
+      ],
+      "top_probs": [
+        0.9101,
+        0.0103,
+        0.0079
+      ]
+    },
+    {
+      "layer": 21,
+      "layer_label": "transformer_block_21",
+      "top_tokens": [
+        "Paris",
+        "located",
+        "where"
+      ],
+      "top_probs": [
+        0.5552,
+        0.216,
+        0.0245
+      ]
+    },
+    {
+      "layer": 22,
+      "layer_label": "transformer_block_22",
+      "top_tokens": [
+        "Paris",
+        "located",
+        "situated"
+      ],
+      "top_probs": [
+        0.6667,
+        0.1733,
+        0.0097
+      ]
+    }
+  ]
+}
