@@ -1,0 +1,121 @@
+{
+  "clean_prompt": "The Eiffel Tower is located in the city of",
+  "corrupted_prompt": "The Space Needle is located in the city of",
+  "target_word": "Paris",
+  "clean_target_prob": 0.9622,
+  "corrupted_target_prob": 0.0,
+  "layer_results": [
+    {
+      "layer": 0,
+      "patched_target_prob": 0.0,
+      "recovery": -0.0
+    },
+    {
+      "layer": 1,
+      "patched_target_prob": 0.0,
+      "recovery": -0.0
+    },
+    {
+      "layer": 2,
+      "patched_target_prob": 0.0,
+      "recovery": 0.0
+    },
+    {
+      "layer": 3,
+      "patched_target_prob": 0.0,
+      "recovery": 0.0
+    },
+    {
+      "layer": 4,
+      "patched_target_prob": 0.0,
+      "recovery": -0.0
+    },
+    {
+      "layer": 5,
+      "patched_target_prob": 0.0,
+      "recovery": -0.0
+    },
+    {
+      "layer": 6,
+      "patched_target_prob": 0.0,
+      "recovery": -0.0
+    },
+    {
+      "layer": 7,
+      "patched_target_prob": 0.0,
+      "recovery": 0.0
+    },
+    {
+      "layer": 8,
+      "patched_target_prob": 0.0,
+      "recovery": 0.0
+    },
+    {
+      "layer": 9,
+      "patched_target_prob": 0.0,
+      "recovery": -0.0
+    },
+    {
+      "layer": 10,
+      "patched_target_prob": 0.0,
+      "recovery": 0.0
+    },
+    {
+      "layer": 11,
+      "patched_target_prob": 0.0,
+      "recovery": -0.0
+    },
+    {
+      "layer": 12,
+      "patched_target_prob": 0.0,
+      "recovery": -0.0
+    },
+    {
+      "layer": 13,
+      "patched_target_prob": 0.0,
+      "recovery": 0.0
+    },
+    {
+      "layer": 14,
+      "patched_target_prob": 0.0,
+      "recovery": 0.0
+    },
+    {
+      "layer": 15,
+      "patched_target_prob": 0.0597,
+      "recovery": 0.062
+    },
+    {
+      "layer": 16,
+      "patched_target_prob": 0.1624,
+      "recovery": 0.1687
+    },
+    {
+      "layer": 17,
+      "patched_target_prob": 0.93,
+      "recovery": 0.9666
+    },
+    {
+      "layer": 18,
+      "patched_target_prob": 0.9335,
+      "recovery": 0.9702
+    },
+    {
+      "layer": 19,
+      "patched_target_prob": 0.9355,
+      "recovery": 0.9723
+    },
+    {
+      "layer": 20,
+      "patched_target_prob": 0.9355,
+      "recovery": 0.9723
+    },
+    {
+      "layer": 21,
+      "patched_target_prob": 0.9622,
+      "recovery": 1.0
+    }
+  ],
+  "best_layer": 21,
+  "best_layer_recovery": 1.0
+}
