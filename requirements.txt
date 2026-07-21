@@ -1,0 +1,14 @@
+# Root requirements for llm-interpretability.
+
+# --- Model loading + inference ---
+torch
+transformers
+
+# --- Attention visualization ---
+matplotlib
+
+# --- Probing classifier ---
+scikit-learn
+
+# --- Testing ---
+pytest
